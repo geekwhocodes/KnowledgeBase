@@ -1,11 +1,20 @@
+`This article is in development.`
+
 # Contribution Guidelines
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
+### Suggesting a change or an improvement
+- Create an issue using [this link](https://github.com/RapidCircle/KnowledgeBase/issues/new) if you have suggestion for improving any knowledge base article.
+- Please use appropriate tag.
+- We encourage you using a predefined template while creating an issue. This will help the community to understand the intention behind the change. 
 
-- Guidelines `to be updated`
+### Contributing to this repository.
+- 
+- 
 
+### Formatting guidelines - Make it look good
+- 
+- 
 
-### Updating your PR
 
